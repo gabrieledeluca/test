@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gabrieledeluca/test#readme",
   "dependencies": {
-
+    "node-opcua": "^2.4.4"
   }
 }
